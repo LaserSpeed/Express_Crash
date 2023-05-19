@@ -1,2 +1,6 @@
 npm install - Install the node package
 npm i express - Install the express
+
+add index.js into the root folder
+
+npm i -D nodemon - Install nodemon as a dev dependencies
