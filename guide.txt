@@ -4,3 +4,5 @@ npm i express - Install the express
 add index.js into the root folder
 
 npm i -D nodemon - Install nodemon as a dev dependencies
+Update the script in the package.json file
+npm run dev - start the server
