@@ -1,0 +1,2 @@
+npm install - Install the node package
+npm i express - Install the express

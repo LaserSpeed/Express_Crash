@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LaserSpeed/Express_Crash/issues"
   },
-  "homepage": "https://github.com/LaserSpeed/Express_Crash#readme"
+  "homepage": "https://github.com/LaserSpeed/Express_Crash#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
